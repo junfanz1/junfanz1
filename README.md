@@ -34,12 +34,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 - **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   A comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
-- [X](https://x.com/junfanzhu98)
-- [Email](mailto:junfanzhu98@gmail.com)
-
 ## GitHub Stats
 
 ![Junfan Zhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default)
@@ -50,6 +44,12 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ---
 
+## Connect with Me
+
 ⭐️ 
 **Junfan Zhu**  
 [GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d)
+
+- [LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
+- [X](https://x.com/junfanzhu98)
+- [Email](mailto:junfanzhu98@gmail.com)
