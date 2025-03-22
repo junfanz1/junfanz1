@@ -64,3 +64,17 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
+<div style="display: table; margin: auto; border: 1px solid lightgray; padding: 5px; width: 60%; max-width: 80px;">
+  <table style="width: 30%;">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/17a05ffb-200b-437e-9b66-cd003abc6c8e" width="50%" height="50%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <em>Project that integrates Generative AI, humanoid robots, and low-altitude economy.</em>
+      </td>
+    </tr>
+  </table>
+</div>
