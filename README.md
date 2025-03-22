@@ -1,7 +1,7 @@
 
 # Hi, I'm Junfan Zhu 👋
 
-<div align="center">
+<div align="left">
   <marquee behavior="alternate" scrollamount="3">
     <strong>Profile Views:</strong>
     <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" />
@@ -38,12 +38,13 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
-<div align="center">
+
+<div align="left">
   <marquee behavior="alternate" scrollamount="3">
     <strong>Connect with me:</strong>
     &nbsp;
