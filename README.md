@@ -8,11 +8,17 @@
 **Connect with me:**  
 [GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
 
+
 <div align="center">
   <marquee behavior="alternate" scrollamount="3">
-    <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" /> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>Followers:</b> <img src="https://img.shields.io/github/followers/junfanz1?style=social" alt="GitHub Followers" /> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>Stars:</b> <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
+    <strong>Profile Views:</strong>
+    <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" />
+    &nbsp;•&nbsp;
+    <strong>Followers:</strong>
+    <img src="https://img.shields.io/github/followers/junfanz1?style=social" alt="GitHub Followers" />
+    &nbsp;•&nbsp;
+    <strong>Stars:</strong>
+    <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
   </marquee>
 </div>
 
@@ -20,14 +26,16 @@
 
 <div align="center">
   <marquee behavior="alternate" scrollamount="3">
-    <b>Connect with me:</b>  
-    [GitHub](https://github.com/junfanz1) • 
-    [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • 
-    [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • 
-    [X](https://x.com/junfanzhu98) • 
-    [Email](mailto:junfanzhu98@gmail.com)
+    <strong>Connect with me:</strong>
+    &nbsp;
+    <a href="https://github.com/junfanz1">GitHub</a> •
+    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
+    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
+    <a href="https://x.com/junfanzhu98">X</a> •
+    <a href="mailto:junfanzhu98@gmail.com">Email</a>
   </marquee>
 </div>
+
 
 
 
