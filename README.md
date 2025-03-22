@@ -27,9 +27,9 @@
 </div>
 
 
-I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
+🤗 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
 
-⭐️ AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
+⭐️ Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
 ## Projects
 
