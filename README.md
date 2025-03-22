@@ -4,6 +4,7 @@
 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=junfanz1&color=blue)  
 **Followers:** ![GitHub Followers](https://img.shields.io/github/followers/junfanz1?style=social)  
 **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/junfanz1?style=social)
+
 **Connect with me:**  
 [GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
 
