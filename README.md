@@ -15,7 +15,6 @@
 </div>
 
 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
-
 ⭐️ AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
 ## Projects
@@ -40,7 +39,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
 
