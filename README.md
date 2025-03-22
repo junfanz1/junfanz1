@@ -39,7 +39,7 @@
 
 Here are some of my highlighted projects that showcase my skills in AI and LLM engineering:
 
-- **[AI-LLM-ML-CS-Quant-Overview](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview)**  
+- **[AI-LLM-ML-CS-Quant-Overview](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview)**  <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
   An in-depth overview of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance.
   - <mark>[GTC 2025 Overview & Takeaways](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark>
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
