@@ -42,20 +42,15 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 - <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Overview" alt="GitHub Stars" /> **[AI-LLM-ML-CS-Quant-Overview](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview)**  
   An in-depth overview of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance.
   - <mark>[GTC 2025 Overview & Takeaways](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark>
-- **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  <img src="https://img.shields.io/github/stars/junfanz1%2FMoE-Mixture-of-Experts-in-PyTorch" alt="GitHub Stars" />
-
+- <img src="https://img.shields.io/github/stars/junfanz1%2FMoE-Mixture-of-Experts-in-PyTorch" alt="GitHub Stars" /> **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   A research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch.
-- **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  <img src="https://img.shields.io/github/stars/junfanz1%2FCursor-FullStack-AI-App" alt="GitHub Stars" />
-
+- <img src="https://img.shields.io/github/stars/junfanz1%2FCursor-FullStack-AI-App" alt="GitHub Stars" /> **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
   A full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics.
-- **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  <img src="https://img.shields.io/github/stars/junfanz1%2FCognito-LangGraph-RAG-Chatbot" alt="GitHub Stars" />
-
+- <img src="https://img.shields.io/github/stars/junfanz1%2FCognito-LangGraph-RAG-Chatbot" alt="GitHub Stars" /> **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   An advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
-- **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  <img src="https://img.shields.io/github/stars/junfanz1%2FLangGraph-Reflection-Researcher" alt="GitHub Stars" />
-
+- <img src="https://img.shields.io/github/stars/junfanz1%2FLangGraph-Reflection-Researcher" alt="GitHub Stars" /> **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)** 
   A reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process.
-- **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  <img src="https://img.shields.io/github/stars/junfanz1%2FCryptocurrency-Blockchain-FullStack" alt="GitHub Stars" />
-
+- <img src="https://img.shields.io/github/stars/junfanz1%2FCryptocurrency-Blockchain-FullStack" alt="GitHub Stars" /> **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   A comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
 
 ## GitHub Stats
