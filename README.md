@@ -14,6 +14,19 @@
   </marquee>
 </div>
 
+<div align="left">
+  <marquee behavior="alternate" scrollamount="3">
+    <strong>Connect with me:</strong>
+    &nbsp;
+    <a href="https://github.com/junfanz1">GitHub</a> •
+    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
+    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
+    <a href="https://x.com/junfanzhu98">X</a> •
+    <a href="mailto:junfanzhu98@gmail.com">Email</a>
+  </marquee>
+</div>
+
+
 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
 
 ⭐️ AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
@@ -40,18 +53,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
-
-<div align="left">
-  <marquee behavior="alternate" scrollamount="3">
-    <strong>Connect with me:</strong>
-    &nbsp;
-    <a href="https://github.com/junfanz1">GitHub</a> •
-    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
-    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
-    <a href="https://x.com/junfanzhu98">X</a> •
-    <a href="mailto:junfanzhu98@gmail.com">Email</a>
-  </marquee>
-</div>
