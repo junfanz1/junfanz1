@@ -23,7 +23,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 - **[AI-LLM-ML-CS-Quant-Overview](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview)**  
   An in-depth overview of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance.
 
-  - [GTC 2025 Overview & Takeaways](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview/blob/main/NVIDIA%20GTC/GTC%202025.md)
+  - <mark>[GTC 2025 Overview & Takeaways](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark>
 
 - **[MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   A research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch.
@@ -57,3 +57,5 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 ---
 
 ⭐️ From [Junfan Zhu](https://github.com/junfanz1)
+
+[Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d)
