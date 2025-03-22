@@ -5,9 +5,12 @@
 **Followers** ![GitHub Followers](https://img.shields.io/github/followers/junfanz1?style=social)  
 **Stars** ![GitHub Stars](https://img.shields.io/github/stars/junfanz1?style=social)
 
+[GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
+
+
 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
 
-Expertise
+⭐️ Expertise
 
 - AI Research & Large Language Models (LLM) 🤖
 - Machine Learning & Deep Learning 📚
@@ -39,10 +42,3 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default)
-
-## Connect with Me
-
-⭐️ 
-**Junfan Zhu**  
-[GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
-
