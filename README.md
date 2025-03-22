@@ -1,14 +1,6 @@
 
 # Hi, I'm Junfan Zhu 👋
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=junfanz1&color=blue)  
-**Followers:** ![GitHub Followers](https://img.shields.io/github/followers/junfanz1?style=social)  
-**Stars:** ![GitHub Stars](https://img.shields.io/github/stars/junfanz1?style=social)
-
-**Connect with me:**  
-[GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
-
-
 <div align="center">
   <marquee behavior="alternate" scrollamount="3">
     <strong>Profile Views:</strong>
@@ -22,7 +14,6 @@
   </marquee>
 </div>
 
-<br/>
 
 <div align="center">
   <marquee behavior="alternate" scrollamount="3">
@@ -36,12 +27,9 @@
   </marquee>
 </div>
 
-
-
-
 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
 
-⭐️ Expertise
+⭐️ My Expertise
 
 - AI Research & Large Language Models (LLM) 🤖
 - Machine Learning & Deep Learning 📚
