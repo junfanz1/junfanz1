@@ -36,6 +36,8 @@
 
 ⭐️ Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
+I'm open to work!
+
 ## Projects
 
 Here are some of my highlighted projects that showcase my skills in AI and LLM engineering:
