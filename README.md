@@ -18,18 +18,6 @@ I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust fou
 
 ⭐️ AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
-<div align="center">
-  <marquee behavior="alternate" scrollamount="3">
-    <strong>Connect with me:</strong>
-    &nbsp;
-    <a href="https://github.com/junfanz1">GitHub</a> •
-    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
-    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
-    <a href="https://x.com/junfanzhu98">X</a> •
-    <a href="mailto:junfanzhu98@gmail.com">Email</a>
-  </marquee>
-</div>
-
 ## Projects
 
 Here are some of my highlighted projects that showcase my skills in AI and LLM engineering:
@@ -52,6 +40,16 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ![Junfan Zhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default)
 
-## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default)
+
+<div align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <strong>Connect with me:</strong>
+    &nbsp;
+    <a href="https://github.com/junfanz1">GitHub</a> •
+    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
+    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
+    <a href="https://x.com/junfanzhu98">X</a> •
+    <a href="mailto:junfanzhu98@gmail.com">Email</a>
+  </marquee>
+</div>
