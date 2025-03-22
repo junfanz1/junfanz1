@@ -48,8 +48,5 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ⭐️ 
 **Junfan Zhu**  
-[GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d)
+[GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/junfan-zhu/)
-- [X](https://x.com/junfanzhu98)
-- [Email](mailto:junfanzhu98@gmail.com)
