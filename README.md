@@ -48,11 +48,11 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ## GitHub Stats
 
-![Junfan Zhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=radical)
+![Junfan Zhu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default)
 
 ---
 
