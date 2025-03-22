@@ -8,6 +8,29 @@
 **Connect with me:**  
 [GitHub](https://github.com/junfanz1) • [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • [X](https://x.com/junfanzhu98) • [Email](mailto:junfanzhu98@gmail.com)
 
+<div align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" /> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>Followers:</b> <img src="https://img.shields.io/github/followers/junfanz1?style=social" alt="GitHub Followers" /> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <b>Stars:</b> <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
+  </marquee>
+</div>
+
+<br/>
+
+<div align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <b>Connect with me:</b>  
+    [GitHub](https://github.com/junfanz1) • 
+    [Resume](https://www.overleaf.com/read/jcgfkzhyfvdv#57139d) • 
+    [LinkedIn](https://www.linkedin.com/in/junfan-zhu/) • 
+    [X](https://x.com/junfanzhu98) • 
+    [Email](mailto:junfanzhu98@gmail.com)
+  </marquee>
+</div>
+
+
+
 I'm an **AI/LLM Researcher** and **Machine Learning Engineer** with a robust foundation in Computer Science from Georgia Tech and Financial Mathematics from UChicago. Passionate about advancing the frontier of artificial intelligence, I specialize in leveraging cutting-edge multi-modal systems and large language models to develop innovative, real-world solutions.
 
 ⭐️ Expertise
