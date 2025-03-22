@@ -64,7 +64,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
-<div style="display: table; margin: auto; border: 1px solid lightgray; padding: 5px; width: 52%; max-width: 60px;">
+<div style="display: table; margin: auto; border: 1px solid lightgray; padding: 5px; width: 45%; max-width: 60px;">
   <table style="width: 30%;">
     <tr>
       <td align="center">
