@@ -52,6 +52,8 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   A full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
 - **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   An advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
+- **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
+  An advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
 - **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**
   A reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process. 
 - **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
