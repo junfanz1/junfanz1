@@ -23,6 +23,8 @@
     <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
     <a href="https://x.com/junfanzhu98">X</a> •
     <a href="mailto:junfanzhu98@gmail.com">Email</a> •
+    <a href="https://www.instagram.com/junfan_zhu/">Instagram</a> •
+    <a href="https://www.douban.com/people/junfanz/">Douban</a> •
     <a href="junfanzhu98">WeChat</a>
   </marquee>
 </div>
