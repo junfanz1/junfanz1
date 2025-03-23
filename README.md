@@ -3,7 +3,7 @@
 
 <div align="left">
   <marquee behavior="alternate" scrollamount="3">
-    <strong>Profile Views:</strong>
+    <strong>Views:</strong>
     <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" />
     &nbsp;•&nbsp;
     <strong>Followers:</strong>
