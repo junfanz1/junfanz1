@@ -65,20 +65,11 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
-</div>
-
-<div class="container">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak">
-    </a>
-    <a href="https://github.com/junfanz1">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions">
-    </a>
+  <img width="48%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
+  <img width="36.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
 </div>
 
 [![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
-
-
 
 [![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
 
