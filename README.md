@@ -70,13 +70,17 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 [![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=junfanz1&theme=default)](https://git.io/streak-stats)  
-
-[![Recent Activity](https://github-profile-summary-cards.vercel.app/api/cards/recent-performances?username=junfanz1&theme=github)](https://github.com/junfanz1)  
+<div class="container">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak">
+    </a>
+    <a href="https://github.com/junfanz1">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions">
+    </a>
+</div>
 
 [![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
 
-[![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github)](https://github.com/junfanz1)  
 
 
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
