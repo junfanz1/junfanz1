@@ -67,9 +67,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
-
-[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
-
 <div class="container">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak">
@@ -78,6 +75,10 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions">
     </a>
 </div>
+
+[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
+
+
 
 [![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
 
