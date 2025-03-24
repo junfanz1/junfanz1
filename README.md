@@ -67,6 +67,26 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
+# 🚀 Junfanz1's GitHub Profile
+
+## 📊 Dynamic Contribution Analytics
+
+### 1. **Contribution Heatmap (All-Time Activity)**
+[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1)](https://github.com/junfanz1)  
+
+---
+
+### 2. **Streak Stats (Longest & Current Streaks)**
+[![GitHub Streak](https://streak-stats.demolab.com?user=junfanz1&theme=dark)](https://git.io/streak-stats)  
+
+---
+
+### 3. **Profile Summary Cards (Total Contributions & Recent Activity)**
+[![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github_dark)](https://github.com/junfanz1)  
+
+[![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github_dark)](https://github.com/junfanz1)  
+[![Recent Activity](https://github-profile-summary-cards.vercel.app/api/cards/recent-performances?username=junfanz1&theme=github_dark)](https://github.com/junfanz1)  
+
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
   <table style="border-collapse: collapse; transform: scale(0.5); transform-origin: 0 0;">
     <tr>
