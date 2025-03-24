@@ -86,6 +86,5 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
 </div>
 
-[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
-
 [![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
+[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
