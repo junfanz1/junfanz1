@@ -32,6 +32,23 @@
 
 ***
 
+<strong>Followers:</strong>
+<img id="github-followers" src="https://img.shields.io/github/followers/junfanz1?style=social" alt="GitHub Followers" />
+
+<script>
+    async function updateFollowers() {
+        const username = "junfanz1";
+        const response = await fetch(`https://api.github.com/users/${username}`);
+        const data = await response.json();
+        const followersCount = data.followers;
+
+        // 更新徽章图片
+        const img = document.getElementById("github-followers");
+        img.src = `https://img.shields.io/badge/Followers-${followersCount}-blue?style=social`;
+    }
+
+    updateFollowers();
+</script>
 
 
 
