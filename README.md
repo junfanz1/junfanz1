@@ -65,7 +65,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 <div align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
 </div>
 
