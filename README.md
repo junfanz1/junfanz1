@@ -43,8 +43,8 @@ Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning 
 
 Here are some of my highlighted projects that showcase my skills in AI and LLM engineering:
 
-- **[AI-LLM-ML-CS-Quant-Overview](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview)**  
-  In-depth overview of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
+- **[AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
+  In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
   - <mark>[__GTC 2025 Overview & Takeaways__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Overview/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Overview" alt="GitHub Stars" />
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch. 
