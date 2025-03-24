@@ -60,20 +60,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 - **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach. 
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
-</div>
-
-[![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
-
-[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
-
-
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
   <table style="border-collapse: collapse; transform: scale(0.5); transform-origin: 0 0;">
     <tr>
@@ -89,3 +75,17 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
     </tr>
   </table>
 </div>
+
+
+## 📊 GitHub Stats
+
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=junfanz1&show_icons=true&theme=default" alt="Junfan Zhu's GitHub Stats" />
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfanz1&layout=compact&theme=default" alt="Top Languages" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=junfanz1&theme=default" alt="GitHub Streak" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
+</div>
+
+[![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github)](https://github.com/junfanz1)  
+
+[![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
