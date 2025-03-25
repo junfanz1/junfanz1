@@ -71,6 +71,10 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   </table>
 </div>
 
+## 🍄 Fun Facts
+
+🏃🏻 I’m a traveler and marathoner, having visited 6 continents, 60+ countries/regions, U.S. 50 states and 28 national parks. I completed a marathon within 5h and summited Kilimanjaro Uhuru Peak, the Roof of Africa. My expeditions have taken me to adventurous journeys, such as Longyearbyen & Barentsburg in Svalbard, Ushuaia in Argentina, Rapa Nui in Chile, Iqaluit in Nunavut Canada, Unalaska & Cold Bay in Aleutian Islands, middle of the Earth in Ecuador, and so on. These experiences have shaped my adaptability, problem-solving skills, and global perspective.
+
 
 ## 📊 GitHub Stats
 
@@ -83,7 +87,3 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 </div>
 
 [![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)  
-
-## 🍄 Fun Facts
-
-🏃🏻 I’m a traveler and marathoner, having visited 6 continents, 60+ countries/regions, U.S. 50 states and 28 national parks. I completed a marathon within 5h and summited Kilimanjaro Uhuru Peak, the Roof of Africa. My expeditions have taken me to adventurous journeys, such as Longyearbyen & Barentsburg in Svalbard, Ushuaia in Argentina, Rapa Nui in Chile, Iqaluit in Nunavut Canada, Unalaska & Cold Bay in Aleutian Islands, middle of the Earth in Ecuador, and so on. These experiences have shaped my adaptability, problem-solving skills, and global perspective.
