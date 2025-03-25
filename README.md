@@ -32,7 +32,7 @@
 
 ***
 
-🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years of experience as a Quant at an investment bank, backed by a strong foundation in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about pushing the boundaries of AI, I specialize in developing cutting-edge multi-modal systems and large language models to drive real-world innovation.
+🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years of experience as a Quant at an investment bank based in Chicago, backed by a strong foundation in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about pushing the boundaries of AI, I specialize in developing cutting-edge multi-modal systems and large language models to drive real-world innovation.
 
 ⭐️ I'm open to work! 
 
