@@ -55,7 +55,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 - **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach. 
 - **[MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-Servers)**  
-  MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions for AI clients like Claude and Cursor.
+  MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions.
 
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
   <table style="border-collapse: collapse; transform: scale(0.5); transform-origin: 0 0;">
