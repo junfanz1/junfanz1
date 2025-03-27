@@ -46,17 +46,17 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   - <mark>[__GTC 2025 Review__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Review" alt="GitHub Stars" />
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch, enabling dynamic routing through specialized sub-models, utilizing parallel processing and distributed computing for scalability.
-- **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
-  Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
-- **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
-  Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
 - **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
   Reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process.
-- **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
-  Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach. 
+- **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
+  Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
 - **[MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-Servers)**  
   MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions.
-
+- **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
+  Cursor Vibe Engineering: Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
+- **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
+  Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
+  
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
   <table style="border-collapse: collapse; transform: scale(0.5); transform-origin: 0 0;">
     <tr>
