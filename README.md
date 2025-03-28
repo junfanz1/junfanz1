@@ -19,7 +19,7 @@
     <strong>Connect with me:</strong>
     &nbsp;
     <a href="https://github.com/junfanz1">GitHub</a> •
-    <a href="https://www.overleaf.com/read/jcgfkzhyfvdv#57139d">Resume</a> •
+    <a href="https://static.us.edusercontent.com/files/MpTet5CemqW4TaqasPDgVTD0">Resume</a> •
     <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
     <a href="https://x.com/junfanzhu98">X</a> •
     <a href="mailto:junfanzhu98@gmail.com">Email</a> •
