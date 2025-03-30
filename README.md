@@ -11,7 +11,6 @@
     &nbsp;•&nbsp;
     <strong>Stars:</strong>
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
-    &nbsp;•&nbsp;
   </marquee>
 </div>
 
