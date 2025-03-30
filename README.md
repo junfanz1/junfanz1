@@ -11,8 +11,12 @@
     &nbsp;•&nbsp;
     <strong>Stars:</strong>
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
+    &nbsp;•&nbsp;
+    <strong>Forks:</strong>
+    <img src="https://img.shields.io/github/forks/junfanz1?style=social" alt="GitHub Forks" />
   </marquee>
 </div>
+
 
 <div align="left">
   <marquee behavior="alternate" scrollamount="3">
