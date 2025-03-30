@@ -12,8 +12,8 @@
     <strong>Stars:</strong>
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
     &nbsp;•&nbsp;
-    <strong>Forks:</strong>
-    <img src="https://img.shields.io/github/forks/junfanz1?style=social" alt="GitHub Forks" />
+    <strong>Total Forks:</strong>
+    <img src="https://img.shields.io/endpoint?url=https://api.junoo.net/github-forks?user=junfanz1" alt="Total Forks" />
   </marquee>
 </div>
 
