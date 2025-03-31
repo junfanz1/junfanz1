@@ -40,6 +40,16 @@
 <!-- 社交风格 (social) -->
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/junfanz1)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=plastic&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/kTXk1RCUXfhj5BxrTf9KghaH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/junfanzhu98)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:junfanzhu98@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/junfan_zhu/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/junfan.zhu.961/)
+[![Douban](https://img.shields.io/badge/Douban-007722?style=plastic&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white)](junfanzhu98)
+
 
 ***
 
