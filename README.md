@@ -11,7 +11,6 @@
 
 # Junfan Zhu 👋
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junfanz1)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/kTXk1RCUXfhj5BxrTf9KghaH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
@@ -21,8 +20,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/junfan.zhu.961/)
 [![Douban](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](junfanzhu98)
-
-***
 
 🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at an investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact.
 
