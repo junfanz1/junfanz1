@@ -1,13 +1,13 @@
 
 <div align="left">
   <marquee behavior="alternate" scrollamount="3">
-    <strong>Views:</strong>
+    
     <img src="https://komarev.com/ghpvc/?username=junfanz1&color=blue" alt="Profile Views" />
     &nbsp;•&nbsp;
-    <strong>Followers:</strong>
+    
     <img src="https://img.shields.io/github/followers/junfanz1?style=social" alt="GitHub Followers" />
     &nbsp;•&nbsp;
-    <strong>Stars:</strong>
+    
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
   </marquee>
 </div>
