@@ -69,7 +69,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 
 ## 💻 Tech Stack
 
-### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -80,7 +79,6 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 ![LangGraph](https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0053FF?style=for-the-badge&logo=pydantic&logoColor=white)
 
-### Full-Stack Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
