@@ -75,6 +75,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
 ![Pydantic](https://img.shields.io/badge/Pydantic-0053FF?style=for-the-badge&logo=pydantic&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
