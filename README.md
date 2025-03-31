@@ -14,9 +14,6 @@
   </marquee>
 </div>
 
-
-Connect with me:
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junfanz1)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/MpTet5CemqW4TaqasPDgVTD0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
