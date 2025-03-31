@@ -25,6 +25,22 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](junfanzhu98)
 
 
+<!-- 默认 (for-the-badge) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- 圆角 (plastic) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+
+<!-- 扁平 (flat) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+<!-- 扁平方形 (flat-square) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<!-- 社交风格 (social) -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github)
+
+
 ***
 
 🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at an investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact.
