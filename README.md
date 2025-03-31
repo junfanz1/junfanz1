@@ -15,31 +15,17 @@
 </div>
 
 
-<div align="left">
-  <marquee behavior="alternate" scrollamount="3">
-    <strong>Connect with me:</strong>
-    &nbsp;
-    <a href="https://github.com/junfanz1">GitHub</a> •
-    <a href="https://static.us.edusercontent.com/files/MpTet5CemqW4TaqasPDgVTD0">Resume</a> •
-    <a href="https://www.linkedin.com/in/junfan-zhu/">LinkedIn</a> •
-    <a href="https://x.com/junfanzhu98">X</a> •
-    <a href="mailto:junfanzhu98@gmail.com">Email</a> •
-    <a href="https://www.instagram.com/junfan_zhu/">Instagram</a> •
-    <a href="https://www.facebook.com/junfan.zhu.961/">Facebook</a> •
-    <a href="https://www.douban.com/people/junfanz/">Douban</a> •
-    <a href="junfanzhu98">WeChat</a>
-  </marquee>
-</div>
+Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-profile)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![Douban](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=douban&logoColor=white)](https://www.douban.com/people/your-profile/)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://your-wechat-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junfanz1)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/MpTet5CemqW4TaqasPDgVTD0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/junfanzhu98)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junfanzhu98@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junfan_zhu/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/junfan.zhu.961/)
+[![Douban](https://img.shields.io/badge/Douban-007722?style=for-the-badge&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](junfanzhu98)
 
 
 ***
