@@ -1,6 +1,4 @@
 
-# Junfan Zhu 👋
-
 <div align="left">
   <marquee behavior="alternate" scrollamount="3">
     <strong>Views:</strong>
@@ -13,6 +11,9 @@
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
   </marquee>
 </div>
+
+# Junfan Zhu 👋
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junfanz1)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/kTXk1RCUXfhj5BxrTf9KghaH)
