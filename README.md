@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/junfan_zhu/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/junfan.zhu.961/)
 [![Douban](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](junfanzhu98)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 
 
 🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at an investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact.
