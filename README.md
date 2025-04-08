@@ -24,7 +24,7 @@
 
 🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at a leading investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact. My portfolio boasts pioneering projects in Mixture-of-Experts for LLM scalability, reflective agent-driven research, and full-stack GenAI applications. 
 
-⭐️ I'm open to work! Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
+💻 I'm open to work! Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
 
 ## 🚀 AI Engineering
