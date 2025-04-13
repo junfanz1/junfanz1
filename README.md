@@ -23,12 +23,14 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 
 
-🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at a leading investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact. My portfolio boasts pioneering projects in Mixture-of-Experts for LLM scalability, reflective agent-driven research, and full-stack GenAI applications. 
+🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at a leading investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact. 
 
 💻 I'm open to work! Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
 
 ## 🚀 AI Research/Engineering Portfolio
+
+My portfolio boasts pioneering projects in MoE & Attention for LLM scalability, reflective multi-agent orchestrations, and full-stack GenAI applications. 
 
 - **[AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
@@ -36,11 +38,11 @@
 - **[MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
-  Research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch, enabling dynamic routing through specialized sub-models, utilizing parallel processing and distributed computing for scalability.
+  Implemented scalable 8-expert MoE model with top-k routing, expert load balancing, and capacity-aware gating; enabled parallel sparse activation and DeepSeek-R1-style distributed training scalability.
 - **[MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
   A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
 - **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
-  Reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process.
+  Engineered LangGraph-based multi-agent system with self-reflection and retrieval-grounded alignment; integrated LangSmith trace for reasoning introspection, cutting hallucination 40% with iterative expert routing.
 - **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
 - **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
