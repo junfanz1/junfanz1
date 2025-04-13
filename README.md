@@ -28,9 +28,7 @@
 💻 I'm open to work! Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
 
-## 🚀 AI Engineering
-
-Here are some of my highlighted projects that showcase my skills in AI and LLM engineering:
+## 🚀 AI Research/Engineering Portfolio
 
 - **[AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
