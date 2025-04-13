@@ -39,7 +39,7 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch, enabling dynamic routing through specialized sub-models, utilizing parallel processing and distributed computing for scalability.
-- **[Real-Time-LangGraph-Agent-with-MCP-Tool-Execution](https://github.com/junfanz1/MCP-Servers)**  
+- **[MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
   A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
 - **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
   Reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process.
