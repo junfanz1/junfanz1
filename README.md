@@ -11,7 +11,7 @@
 
 # Junfan Zhu 👋
 
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/1lA3Iz6yIRhy5WXvbRDxJFkO)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://static.us.edusercontent.com/files/hGv7UGCq3KXbH1mDnM7xTY6Q)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/junfanzhu98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junfanzhu98@gmail.com)
