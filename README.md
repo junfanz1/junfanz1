@@ -30,7 +30,7 @@
 
 ## 🚀 AI Research/Engineering Portfolio
 
-My portfolio boasts pioneering projects in MoE & Attention for LLM scalability, reflective multi-agent orchestrations, and full-stack GenAI applications. 
+My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, reflective multi-agent orchestrations, and full-stack GenAI applications. 
 
 - **[AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
