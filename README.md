@@ -32,22 +32,22 @@
 
 My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, reflective multi-agent orchestrations, and full-stack GenAI applications. 
 
-- **[AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
+- **[1. AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
   - <mark>[__2025 NVIDIA GTC Conference − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Review" alt="GitHub Stars" />
-- **[MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
+- **[2. MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
-- **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
+- **[3. DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Implemented scalable 8-expert MoE model with top-k routing, expert load balancing, and capacity-aware gating; enabled parallel sparse activation and DeepSeek-R1-style distributed training scalability.
-- **[MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
+- **[4. MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
   A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
-- **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
+- **[5. LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
   Engineered LangGraph-based multi-agent system with self-reflection and retrieval-grounded alignment; integrated LangSmith trace for reasoning introspection, cutting hallucination 40% with iterative expert routing.
-- **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
+- **[6. Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
-- **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
+- **[7. Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
   Cursor Vibe Engineering: Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
-- **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
+- **[8. Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
   
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
