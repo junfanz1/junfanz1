@@ -39,12 +39,12 @@ Here are some of my highlighted projects that showcase my skills in AI and LLM e
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
 - **[DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Research-focused implementation of the Mixture-of-Experts (MoE) architecture for scalable large language models using PyTorch, enabling dynamic routing through specialized sub-models, utilizing parallel processing and distributed computing for scalability.
+- **[Real-Time-LangGraph-Agent-with-MCP-Tool-Execution](https://github.com/junfanz1/MCP-Servers)**  
+  A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
 - **[LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
   Reflective agent that iteratively refines responses using large language models, simulating a dynamic, AI-driven research process.
 - **[Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
-- **[MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-Servers)**  
-  MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions.
 - **[Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
   Cursor Vibe Engineering: Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
 - **[Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
