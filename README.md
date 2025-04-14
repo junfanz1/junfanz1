@@ -105,7 +105,7 @@ My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, ref
 
 ## 🌏 Fun Facts
 
-I’m a traveler ✈️, violinist 🎻, amateur [bartender](https://www.linkedin.com/in/junfan-zhu/details/certifications/1706288434402/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🍷 and aspiring [private pilot](https://www.linkedin.com/in/junfan-zhu/details/certifications/1741645996996/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🚁, having visited 6 continents 🗺️, 60+ countries/regions (my passport has seen more stamps than a post office! 🛂), U.S. 50 states & 30+ national parks. 
+I’m a traveler ✈️, violinist 🎻, amateur [bartender](https://www.linkedin.com/in/junfan-zhu/details/certifications/1706288434402/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🍷 and aspiring [private pilot](https://www.linkedin.com/in/junfan-zhu/details/certifications/1741645996996/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🚁. My passport has seen more stamps than a post office! 🛂 Having visited 6 continents 🗺️, 60+ countries/regions, USA 50 states & 30+ national parks. 
 
 I summited [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https://reservations.tanzaniaparks.go.tz:8090/VisitorsRerification.aspx?xID=2476363&xPermitCode=TNP/KI_MA/0044528) 🦒, trekked Annapurna Base Camp in Nepal 🏔, hiked Volcán de Fuego in Guatemala 🌋, traversed a desert in Inner Mongolia China 🏜, and completed a marathon within 5h 🏃. 
 
