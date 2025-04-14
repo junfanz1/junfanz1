@@ -109,9 +109,9 @@ I’m a traveler ✈️, violinist 🎻, amateur [bartender](https://www.linkedi
 
 I summited [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https://reservations.tanzaniaparks.go.tz:8090/VisitorsRerification.aspx?xID=2476363&xPermitCode=TNP/KI_MA/0044528) 🦒, trekked Annapurna Base Camp in Nepal 🏔, hiked Volcán de Fuego in Guatemala 🌋, traversed a desert in Inner Mongolia China 🏜, and completed a marathon within 5h 🏃. 
 
-My expeditions have taken me to beautiful adventurous journeys, such as Longyearbyen & Barentsburg (🥶 icebreaker ⛴) in Svalbard 🌌, Rapa Nui Chile 🗿, Iqaluit Nunavut Canada 🐋, Ushuaia Argentina 🐧, Unalaska & Cold Bay in Aleutian Islands🗻 / Utqiaġvik Alaska ❄️, Tibet China 🌄, Bora Bora 🪸, Molokaʻi 🏝️, middle of the Earth in Ecuador 🌎 and so on. These experiences have shaped my adaptability 👽, problem-solving skills ✍️, and global perspective. 🌊
+My expeditions have taken me to beautiful adventurous journeys, such as Longyearbyen & Barentsburg (🥶 icebreaker ⛴) in Svalbard 🌌, Rapa Nui Chile 🗿, Iqaluit Nunavut Canada 🐋, Ushuaia Argentina 🐧, Unalaska & Cold Bay in Aleutian Islands🗻 / Utqiaġvik Alaska ❄️, Tibet China 🌄, Bora Bora 🪸, Molokaʻi 🏝️, middle of the Earth in Ecuador 🌎 and so on. These experiences have shaped my adaptability 👽, problem-solving skills ✍️, and global perspective 🌊.
 
-📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie". 🌅
+📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie" 🌅.
 
 
 ## 📊 GitHub Stats
