@@ -111,7 +111,7 @@ I summited [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https://reserv
 
 My expeditions have taken me to beautiful adventurous journeys, such as Longyearbyen & Barentsburg (🥶 icebreaker ⛴) in Svalbard 🌌, Rapa Nui Chile 🗿, Iqaluit Nunavut Canada 🐋, Ushuaia Argentina 🐧, Unalaska & Cold Bay in Aleutian Islands🗻 / Utqiaġvik Alaska ❄️, Tibet China 🌄, Bora Bora 🪸, Molokaʻi 🏝️, middle of the Earth in Ecuador 🌎 and so on. These experiences have shaped my adaptability 👽, problem-solving skills ✍️, and global perspective 🌊.
 
-📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie" 🌅.
+📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie" 🌅
 
 
 ## 📊 GitHub Stats
