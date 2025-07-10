@@ -23,7 +23,7 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 
 
-🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant at a leading investment bank in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact. 
+🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** with 4 years as a Quant Researcher in Chicago, grounded in Computer Science (Georgia Tech) and Financial Mathematics (UChicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design cutting-edge LLM systems and pipelines that push AI’s real-world impact. 
 
 💻 I'm open to work! Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
