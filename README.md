@@ -35,6 +35,7 @@ My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, ref
 - **[1. AI-LLM-ML-CS-Quant-Review](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review)**  
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
   - <mark>[__2025 NVIDIA GTC Conference − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Review" alt="GitHub Stars" />
+  - <mark>[__2025 Agentic AI Summit Berkeley − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/Agentic%20AI%20Summit/Agentic%20AI%20Summit%20Berkeley%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Overview" alt="GitHub Stars" />
 - **[2. MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
 - **[3. DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
