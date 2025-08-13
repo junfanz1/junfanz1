@@ -23,7 +23,7 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 
 
-🤗 I'm an **AI/LLM Researcher | Machine Learning Engineer** at a self-driving technology company in San Jose, California. With 4 years of experience as an MLE and Quantitative Researcher, I bring a strong academic foundation in Computer Science (Georgia Tech) and Financial Mathematics (University of Chicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design advanced LLM systems and pipelines that drive real-world impact in AI.
+🤗 I'm an **AI/LLM Engineer** at Tensor Auto (https://www.tensor.auto/), Robocar company in San Jose, California. With 4 years of experience as an MLE and Quantitative Researcher, I bring a strong academic foundation in Computer Science (Georgia Tech) and Financial Mathematics (University of Chicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design advanced LLM systems and pipelines that drive real-world impact in AI.
 
 💻 Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
 
