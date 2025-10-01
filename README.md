@@ -23,10 +23,11 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 
 
-🤗 I'm an **AI/LLM Engineer** at [Tensor](https://www.tensor.auto/), Robocar company in San Jose, California. With 4 years of experience as an MLE and Quantitative Researcher, I bring a strong academic foundation in Computer Science (Georgia Tech) and Financial Mathematics (University of Chicago). Passionate about scalable model architectures and multimodal agentic reasoning, I design advanced LLM systems and pipelines that drive real-world impact in AI.
+🤗 AI Engineer specializing in Agentic RL, Multi-Modal Reasoning, and Scalable LLM/VLM Systems. Expert in multi-agent orchestration, speculative decoding, distributed training, and latency-throughput optimization. Passionate about translating algorithmic research into production-scale systems, bridging mathematical rigor with software engineering. Proven experience in boosting long-horizon reasoning accuracy, scaling RL and LLM pipelines, and deploying multi-agent systems for high-impact business metrics.
 
-💻 Expertise: AI Research & Large Language Models (LLM) 🤖  • Machine Learning & Deep Learning 📚  • Full-Stack AI Applications 💡  • Quantitative Finance & Algorithmic Trading 💹
+Key Strengths: distributed training (FSDP, MoE), speculative decoding, RAG pipelines, multi-hop reasoning, stochastic optimization, observability, vLLM customization, and high-throughput inference orchestration.
 
+💻 AI Engineer driving scalable LLM/VLM systems and multi-agent reasoning, with expertise in RL, distributed training, and throughput/latency optimization. Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
 ## 🚀 AI Research/Engineering Portfolio
 
