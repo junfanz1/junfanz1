@@ -27,7 +27,9 @@
 
 Key Strengths: distributed training (FSDP, MoE), speculative decoding, RAG pipelines, multi-hop reasoning, stochastic optimization, observability, vLLM customization, and high-throughput inference orchestration.
 
-💻 AI Engineer driving scalable LLM/VLM systems and multi-agent reasoning, with expertise in RL, distributed training, and throughput/latency optimization. Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+💻 Junfan Zhu is an AI Engineer with 5 years of experience in Agentic RL, multi-modal agent reasoning, and scalable LLM/VLM systems. With a strong background in speculative decoding, distributed training, and high-throughput inference, Junfan also brings expertise in multi-agent orchestration, Transformer architectures, mixture-of-experts (MoE), and algorithmic optimization, enabling him to design and scale advanced AI systems end-to-end. He holds Master’s in CS from Georgia Tech and Mathematics from UChicago, and is recognized as a resilient collaborator and builder of high-impact AI systems.
+
+Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
 ## 🚀 AI Research/Engineering Portfolio
 
