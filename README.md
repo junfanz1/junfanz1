@@ -37,19 +37,21 @@ My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, ref
   In-depth review of industry trends in AI, LLMs, Machine Learning, Computer Science, and Quantitative Finance. 
   - <mark>[__2025 NVIDIA GTC Conference − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/NVIDIA%20GTC/GTC%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Review" alt="GitHub Stars" />
   - <mark>[__2025 Agentic AI Summit Berkeley − Technical & Industrial Insight__](https://github.com/junfanz1/AI-LLM-ML-CS-Quant-Review/blob/main/Agentic%20AI%20Summit/Agentic%20AI%20Summit%20Berkeley%202025.md)</mark> <img src="https://img.shields.io/github/stars/junfanz1%2FAI-LLM-ML-CS-Quant-Overview" alt="GitHub Stars" />
-- **[2. MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
+- **[2. Agentic RL: GRPO Reinforcement Learning for Agentic Search in LLMs](https://github.com/junfanz1/GRPO)**  
+  Search-R1 leverages Group Relative Policy Optimization (GRPO) to fine-tune LLMs at the token level, enabling stable reinforcement learning over multi-step search–reasoning trajectories. The model learns adaptive retrieval policies, deciding when to trigger searches and integrating results into its reasoning context for more precise answers.
+- **[3. MiniGPT-and-DeepSeek-MLA-Multi-Head-Latent-Attention](https://github.com/junfanz1/DeepSeek-MLA)**  
   Memory-efficient multi-head latent attention in PyTorch, that leverages low-rank approximation and decoupled rotary positional embeddings, to compress key–value representations, reducing inference memory while maintaining high performance in long-context language models. 
-- **[3. DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
+- **[4. DeepSeek-MoE-Mixture-of-Experts-in-PyTorch](https://github.com/junfanz1/MoE-Mixture-of-Experts-in-PyTorch)**  
   Implemented scalable 8-expert MoE model with top-k routing, expert load balancing, and capacity-aware gating; enabled parallel sparse activation and DeepSeek-R1-style distributed training scalability.
-- **[4. MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
+- **[5. MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-Servers)**  
   A decoupled real-time agent architecture connecting LangGraph agents to remote tools served by custom MCP servers via SSE and STDIO, enabling a scalable multi-agent system for LLM workflows. The design supports flexible multi-server connectivity and lays the groundwork for an Agent2Agent protocol, fostering seamless, cloud-deployable interoperability across diverse AI systems.
-- **[5. LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
+- **[6. LangGraph-Reflection-Researcher](https://github.com/junfanz1/LangGraph-Reflection-Researcher)**  
   Engineered LangGraph-based multi-agent system with self-reflection and retrieval-grounded alignment; integrated LangSmith trace for reasoning introspection, cutting hallucination 40% with iterative expert routing.
-- **[6. Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
+- **[7. Cognito-LangGraph-RAG-Chatbot](https://github.com/junfanz1/Cognito-LangGraph-RAG-Chatbot)**  
   Advanced Retrieval Augmented Generation (RAG) chatbot that utilizes LangGraph to enhance answer accuracy and minimize hallucinations in LLM outputs.
-- **[7. Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
+- **[8. Cursor-FullStack-AI-App](https://github.com/junfanz1/Cursor-FullStack-AI-App)**  
   Cursor Vibe Engineering: Full-stack micro SaaS AI application that processes GitHub URLs to generate insightful JSON reports powered by AI analytics. 
-- **[8. Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
+- **[9. Cryptocurrency-Blockchain-FullStack](https://github.com/junfanz1/Cryptocurrency-Blockchain-FullStack)**  
   Comprehensive decentralized blockchain platform demonstrating practical applications of core blockchain concepts through a modular, full-stack approach.
   
 <div style="display: inline-block; border: 1px solid lightgray; padding: 0;">
