@@ -11,7 +11,6 @@
 
 # Junfan Zhu 👋
 
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1iIkM34ZYJmMSurPue9X7meAyoZmf92xD/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/junfanzhu98)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junfanzhu98@gmail.com)
@@ -21,15 +20,23 @@
 [![Douban](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhu-jun-fan-33)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1iIkM34ZYJmMSurPue9X7meAyoZmf92xD/view?usp=sharing)
 
-
-🤗 Junfan Zhu is an AI Engineer (open) with 5 years of experience in Agentic RL, multi-modal agent reasoning, and scalable LLM/VLM systems. With a strong background in speculative decoding, distributed training, and high-throughput inference, Junfan also brings expertise in multi-agent orchestration, Transformer architectures, mixture-of-experts (MoE), and algorithmic optimization, enabling him to design and scale advanced AI systems end-to-end. He holds Master’s in CS from Georgia Tech and Mathematics from UChicago, and is recognized as a resilient collaborator and builder of high-impact AI systems.
-
-Key Strengths: distributed training (FSDP, MoE), speculative decoding, RAG pipelines, multi-hop reasoning, stochastic optimization, observability, vLLM customization, and high-throughput inference orchestration.
+🤗 Junfan Zhu is an AI Researcher/Engineer focusing on RL, World Models, Spatial Intelligence. With 5 years of experience in Agentic RL, multi-modal agent reasoning, and scalable LLM/VLM/VLA systems. He holds Master’s in CS from Georgia Tech and Mathematics from UChicago. He was a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago.
 
 Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
-## 🚀 AI Research/Engineering Portfolio
+## Publications
+
+- [📊 QuantEval: A Benchmark for Financial Quantitative Tasks in Large Language Models [ACL 2026]](https://arxiv.org/abs/2601.08689)
+  🧪 Evaluation and domain knowledge are the core bottlenecks of Quant + AI. Without expert-level, strong verifiers for evaluation, models cannot reliably assess performance in multi-step strategy generation, risk control, or real-world trading effectiveness. [QuantEval](https://www.linkedin.com/posts/junfan-zhu_quanteval-a-benchmark-for-financial-quantitative-activity-7417619812711059456-ymb7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) is proposed in this context, providing a reproducible benchmark framework that goes beyond static question answering and shifts toward evaluation grounded in realistic trading details. It represents an initial exploration of evaluating financial “World Models.” 🌍
+
+## Awards
+
+- [🏆 Y Combinator Hackathon 2025, Finalist & Track Winner](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)
+  Inspired by Isaac Asimov’s Foundation, PsychoHistory is a probabilistic forecasting system that maps the branching futures of human events—combining history, data, and AI to model the flow of possibility. 🧠 Our approach blended SFT+RL, training the model not just what to predict but how to reason across alternative futures—like a psychohistorian trained on uncertainty itself.
+
+## 🚀 AI Engineering Portfolio
 
 My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, reflective multi-agent orchestrations, and full-stack GenAI applications. 
 
