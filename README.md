@@ -36,7 +36,7 @@ Github (1.3k⭐️): https://github.com/junfanz1/
 
 ## 🏆 Awards
 
-- **[Finalist & Track Winner, 🏆 Y Combinator Hackathon 2025](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
+- Finalist & Track Winner, **[🏆 Y Combinator Hackathon 2025](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
   Inspired by Isaac Asimov’s Foundation, PsychoHistory is a probabilistic forecasting system that maps the branching futures of human events—combining history, data, and AI to model the flow of possibility. 🧠 Our approach blended SFT+RL, training the model not just what to predict but how to reason across alternative futures—like a psychohistorian trained on uncertainty itself.
 - Meritorious Winner, [Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm).
 - 2nd Prize, [Asia Supercomputer Challenge](https://asc-events.net/StudentChallenge/index.html).
