@@ -22,9 +22,12 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1iIkM34ZYJmMSurPue9X7meAyoZmf92xD/view?usp=sharing)
 
-🤗 Junfan Zhu is an AI Researcher/Engineer focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. He holds Master’s in CS from Georgia Tech and Mathematics from UChicago. He was a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago.
 
-Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+🤗 Junfan Zhu is an AI Researcher/Engineer focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studying at Stanford GSB. Previously, a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago. A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+
+X: https://x.com/junfanzhu98
+
+Github (1.3k⭐️): https://github.com/junfanz1/
 
 ## 📄 Publications
 
@@ -33,8 +36,13 @@ Long-term thinker, resilient collaborator, and builder of high-impact AI systems
 
 ## 🏆 Awards
 
-- **[🏆 Y Combinator Hackathon 2025, Finalist & Track Winner](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
+- **[Finalist & Track Winner, 🏆 Y Combinator Hackathon 2025](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
   Inspired by Isaac Asimov’s Foundation, PsychoHistory is a probabilistic forecasting system that maps the branching futures of human events—combining history, data, and AI to model the flow of possibility. 🧠 Our approach blended SFT+RL, training the model not just what to predict but how to reason across alternative futures—like a psychohistorian trained on uncertainty itself.
+- Meritorious Winner, [Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm).
+- 2nd Prize, [Asia Supercomputer Challenge](https://asc-events.net/StudentChallenge/index.html).
+- Top 10 Algo Trader, [Rotman International Trading Competition](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/).
+- Outstanding Thesis (1%).
+
 
 ## 🚀 AI Engineering Portfolio
 
