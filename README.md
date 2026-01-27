@@ -23,7 +23,7 @@
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1iIkM34ZYJmMSurPue9X7meAyoZmf92xD/view?usp=sharing)
 
 
-🤗 Junfan Zhu is an AI Researcher/Engineer focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studying at Stanford GSB. Previously, a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago. A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+🤗 AI Researcher/Engineer in SF Bay Area, focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studying at Stanford GSB. Previously, a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago. A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
 X: https://x.com/junfanzhu98
 
