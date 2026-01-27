@@ -26,12 +26,12 @@
 
 Long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
-## Publications
+## 📄 Publications
 
 - **[📊 QuantEval: A Benchmark for Financial Quantitative Tasks in Large Language Models [ACL 2026]](https://arxiv.org/abs/2601.08689)**  
   🧪 Evaluation and domain knowledge are the core bottlenecks of Quant + AI. Without expert-level, strong verifiers for evaluation, models cannot reliably assess performance in multi-step strategy generation, risk control, or real-world trading effectiveness. [QuantEval](https://www.linkedin.com/posts/junfan-zhu_quanteval-a-benchmark-for-financial-quantitative-activity-7417619812711059456-ymb7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) is proposed in this context, providing a reproducible benchmark framework that goes beyond static question answering and shifts toward evaluation grounded in realistic trading details. It represents an initial exploration of evaluating financial “World Models.” 🌍
 
-## Awards
+## 🏆 Awards
 
 - **[🏆 Y Combinator Hackathon 2025, Finalist & Track Winner](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
   Inspired by Isaac Asimov’s Foundation, PsychoHistory is a probabilistic forecasting system that maps the branching futures of human events—combining history, data, and AI to model the flow of possibility. 🧠 Our approach blended SFT+RL, training the model not just what to predict but how to reason across alternative futures—like a psychohistorian trained on uncertainty itself.
