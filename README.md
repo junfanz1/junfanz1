@@ -27,7 +27,7 @@
 
 X: https://x.com/junfanzhu98
 
-Github (1.3k⭐️): https://github.com/junfanz1/
+Github (1.4k⭐️): https://github.com/junfanz1/
 
 ## 📄 Publications
 
