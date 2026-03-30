@@ -20,7 +20,7 @@
 [![Douban](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhu-jun-fan-33)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1iIkM34ZYJmMSurPue9X7meAyoZmf92xD/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1nc5UcXQjsjEiL1sHB4IvlbXnfKMuiArt/view?usp=sharing)
 
 
 🤗 AI Researcher/Engineer in SF Bay Area, focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studying at Stanford GSB. Previously, a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago. A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
