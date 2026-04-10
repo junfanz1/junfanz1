@@ -127,6 +127,7 @@ My portfolio boasts pioneering projects in MoE & Attention for scalable LLM, ref
 
 ## 🌏 Fun Facts
 
+<!-- 
 I’m a traveler ✈️, violinist 🎻, licensed [hunter](https://www.linkedin.com/in/junfan-zhu/details/certifications/1976607383/multiple-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8&treasuryMediaId=1755410381790) with [firearm](https://www.linkedin.com/in/junfan-zhu/details/certifications/1755410615994/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🔫 , certified [boater](https://www.linkedin.com/in/junfan-zhu/details/certifications/814938124/multiple-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8&treasuryMediaId=1755309471918) ⛵, amateur [bartender](https://www.linkedin.com/in/junfan-zhu/details/certifications/1706288434402/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🍷 and aspiring [private pilot](https://www.linkedin.com/in/junfan-zhu/details/certifications/1741645996996/single-media-viewer/?profileId=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8) 🚁. I retired my passport stamping 🛂 across 6 continents 🗺️, 65 countries/regions 🌐, USA 50 states & 50+ national parks 🏞️. 
 
 I summited 🇹🇿 [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https://reservations.tanzaniaparks.go.tz:8090/VisitorsRerification.aspx?xID=2476363&xPermitCode=TNP/KI_MA/0044528) 🦒, trekked 🇳🇵 Annapurna Base Camp 🏔, hiked 🇬🇹 Volcán de Fuego 🌋, traversed a desert in 🇨🇳 Inner Mongolia 🏜, and completed 2 marathons (PB within 5h) 🏃. 
@@ -134,7 +135,7 @@ I summited 🇹🇿 [Kilimanjaro Uhuru Peak (5895m) at the Roof of Africa](https
 My expeditions have taken me to beautiful adventurous journeys, such as 🇳🇴 Longyearbyen & Barentsburg (🥶 icebreaker ⛴) in Svalbard 🌌, 🇨🇱 Rapa Nui🗿, 🇨🇦 Iqaluit Nunavut 🐋, 🇦🇷 Ushuaia 🐧, 🇺🇸 Unalaska & Cold Bay in Aleutian Islands🗻 / Utqiaġvik & Prudhoe Bay Alaska ❄️, 🇨🇳 Tibet 🌄, 🇵🇫 Bora Bora 🪸, 🇺🇸 Molokaʻi 🏝️, 🇪🇨 middle of the Earth 🌎 and so on. These experiences have shaped my adaptability 👽, problem-solving skills ✍️, and global perspective 🌊.
 
 📖 Motto: "Every man carries within him a world, composed of all that he has seen and loved, and it is to this world that he constantly returns, even when he seems to be journeying and living in another different world." — Chateaubriand, "Voyages en Italie" 🌅
-
+ -->
 
 ## 📊 GitHub Stats
 
