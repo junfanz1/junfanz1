@@ -23,7 +23,7 @@
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oC42Mtx9pK8swdDimsFmANKtecUhdxkm/view?usp=sharing)
 
 
-🤗 Founder & Principal Curator of  Saturday Robotics —Silicon Valley’s high-signal Robotics & World Models community, connecting frontier researchers, founders, investors across embodied intelligence.
+🤗 Founder & Principal Curator of [Saturday Robotics](https://x.com/saturdayrobotic) — Silicon Valley’s high-signal Robotics & World Models community, connecting frontier researchers, founders, investors across embodied intelligence.
 
 Physical AI researcher on World-Action Models, sim-to-real transfer, cross-embodiment policy learning.
 
