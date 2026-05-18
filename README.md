@@ -20,16 +20,27 @@
 [![Douban](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhu-jun-fan-33)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1nc5UcXQjsjEiL1sHB4IvlbXnfKMuiArt/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oC42Mtx9pK8swdDimsFmANKtecUhdxkm/view?usp=sharing)
 
 
-🤗 AI Researcher/Engineer in SF Bay Area, focusing on RL, World Models, Spatial Intelligence, with 5 years of experience in Agentic RL, Multimodal agent reasoning, scalable LLM/VLM/VLA systems. Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studying at Stanford GSB. Previously, a Quant Researcher (Stochastic Volatility, Machine Learning in Finance) in Chicago. A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
+🤗 Founder & Principal Curator of  Saturday Robotics —Silicon Valley’s high-signal Robotics & World Models community, connecting frontier researchers, founders, investors across embodied intelligence.
+
+Physical AI researcher on World-Action Models, sim-to-real transfer, cross-embodiment policy learning.
+
+Building evaluation-centric embodied AI systems spanning world models, agentic reasoning, real-world deployment. 
+
+Master’s in CS from Georgia Tech and Mathematics from UChicago, part-time studied at Stanford GSB. Previously, a Machine Learning Quant Researcher in Chicago. 
+
+A long-term thinker, resilient collaborator, and builder of high-impact AI systems.
 
 X: https://x.com/junfanzhu98
 
-Github (1.4k⭐️): https://github.com/junfanz1/
+Github (1.6k⭐️): https://github.com/junfanz1/
 
 ## 📄 Publications
+
+- **[Agents Last Exam (ALE): Benchmarking Long-Horizon AI Agents [NeurIPS 2026]](https://agenthle.org/)**
+· Contributed to large-scale AI eval infra at NeurIPS 2026, 1K+ task benchmark led by 300+ domain experts.
 
 - **[🚗 IEDD: An Interactive Enhanced Driving Dataset for Autonomous Driving [Scientific Data 2026]](https://arxiv.org/abs/2602.20575)**  
   🌲 As AutonomousDriving evolves toward VLA, sparse interactive scenarios and weak multimodal alignment remain critical bottlenecks. Existing datasets heavily bias toward straight-line cruising while severely under-representing long-tail interactive events (cut-in, merging, pedestrian crossing, head-on avoidance). IEDD introduces a physics-aware, interaction-dense dataset (plus IEDD-VQA multimodal extension) mined from 7.31M ego-centric scenes across Waymo, nuPlan, Lyft, INTERACTION, SIND — with 91% multi-agent interactions, dual Intensity–Efficiency metrics, pixel-level BEV-video alignment, rule-based hallucination-free language, and hierarchical L1–L4 VLM benchmarking. 🌍 It lays a scalable, causality-grounded foundation to evolve general-purpose VLMs into truly capable autonomous driving experts. [🤗 HuggingFace](https://huggingface.co/datasets/Egikk/IEDD), [LinkedIn](https://www.linkedin.com/posts/junfan-zhu_an-interactive-enhanced-driving-dataset-for-activity-7432307474105491456-2egs?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8), [X](https://x.com/junfanzhu98/status/2026545235560747458?s=20).
@@ -42,10 +53,14 @@ Github (1.4k⭐️): https://github.com/junfanz1/
 - Finalist & Track Winner, **[🏆 Y Combinator Hackathon 2025](https://www.linkedin.com/posts/junfan-zhu_winner-yc-sft-activity-7390623371442651136--OVo?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxP-p0BpUNGDf347aKh_1uJAPzG4er0As8)**  
   Inspired by Isaac Asimov’s Foundation, PsychoHistory is a probabilistic forecasting system that maps the branching futures of human events—combining history, data, and AI to model the flow of possibility. 🧠 Our approach blended SFT+RL, training the model not just what to predict but how to reason across alternative futures—like a psychohistorian trained on uncertainty itself.
 - Meritorious Winner, [Mathematical Contest in Modeling](https://www.comap.com/contests/mcm-icm).
-- 2nd Prize, [Asia Supercomputer Challenge](https://asc-events.net/StudentChallenge/index.html).
+- Finalist, [Asia Supercomputer Challenge](https://asc-events.net/StudentChallenge/index.html).
 - Top 10 Algo Trader, [Rotman International Trading Competition](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/bmo-financial-group-finance-research-and-trading-lab/rotman-international-trading-competition/).
 - Outstanding Thesis (1%).
 
+## Professional Services
+
+- Invited Reviewer, ACM Conf (AI Agentic Systems), 2026. Nominated by committee for research contributions.
+- Program-Committee-Equivalent Curator, [Saturday Robotics](https://x.com/saturdayrobotic) Reading Club—top Bay Area robotics ecosystem.
 
 ## 🚀 AI Engineering Portfolio
 
