@@ -20,7 +20,7 @@
 [![Douban](https://img.shields.io/badge/Douban-007722?style=flat-square&logo=douban&logoColor=white)](https://www.douban.com/people/junfanz/)
 [![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/zhu-jun-fan-33)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/user-attachments/assets/46cedafa-ee24-40f0-af5b-bf4706019aa5)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1oC42Mtx9pK8swdDimsFmANKtecUhdxkm/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Jq8Q-oAtGZdU2YIn6K5XaMl4k_9cdJ5Q/view?usp=sharing)
 
 
 🤗 Founder & Principal Curator of [Saturday Robotics](https://x.com/saturdayrobotic) — Silicon Valley’s high-signal Robotics & World Models community, connecting frontier researchers, founders, investors across embodied intelligence.
