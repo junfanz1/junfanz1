@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/github/stars/junfanz1?style=social" alt="GitHub Stars" />
   </marquee>
 </div>
+
 # Junfan Zhu 👋
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junfan-zhu/)
@@ -179,5 +180,6 @@ My expeditions have taken me to beautiful adventurous journeys, such as 🇳🇴
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=junfanz1&theme=github" alt="Total Contributions" />
    <img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junfanz1&theme=github" alt="https://github.com/junfanz1" />
 </div>
+
 [![Contribution Heatmap](https://ghchart.rshah.org/junfanz1?bg=ffffff)](https://github.com/junfanz1)
  
